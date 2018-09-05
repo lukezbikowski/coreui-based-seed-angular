@@ -4,7 +4,7 @@
 
 ``` bash
 # clone the repo
-$ git clone https://github.com/coreui/coreui-free-angular-admin-template.git my-project
+$ git clone https://github.com/lukezbikowski/coreui-based-seed-angular.git my-project
 
 # go into app's directory
 $ cd my-project
