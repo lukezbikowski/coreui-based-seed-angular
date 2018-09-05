@@ -1,6 +1,11 @@
 The MIT License (MIT)
 
-Copyright (c) 2018 creativeLabs Łukasz Holeczek.
+Template based on CoreUI Admin for internal use. CoreUI Admin Template was provided on MIT license.
+Specifically: You can't re-distribute the CoreUI as stock. Other than that MIT License applies.
+
+For detailed license conditions see: https://github.com/coreui/coreui-free-angular-admin-template
+
+
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

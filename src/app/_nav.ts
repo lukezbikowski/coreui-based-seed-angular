@@ -199,11 +199,6 @@ export const navItems = [
         icon: 'icon-star'
       },
       {
-        name: 'Register',
-        url: '/register',
-        icon: 'icon-star'
-      },
-      {
         name: 'Error 404',
         url: '/404',
         icon: 'icon-star'
@@ -214,18 +209,5 @@ export const navItems = [
         icon: 'icon-star'
       }
     ]
-  },
-  {
-    name: 'Download CoreUI',
-    url: 'http://coreui.io/angular/',
-    icon: 'icon-cloud-download',
-    class: 'mt-auto',
-    variant: 'success'
-  },
-  {
-    name: 'Try CoreUI PRO',
-    url: 'http://coreui.io/pro/angular/',
-    icon: 'icon-layers',
-    variant: 'danger'
   }
 ];
